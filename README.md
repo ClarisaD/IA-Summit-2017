@@ -1,4 +1,4 @@
-![image](https://github.com/ClarisaD/IA-Summit-2017/blob/master/1.JPG)
+![image](https://github.com/ClarisaD/IA-Summit-2017/blob/master/1.jpg)
 
 ![image](https://github.com/ClarisaD/IA-Summit-2017/blob/master/2.jpg)
 
